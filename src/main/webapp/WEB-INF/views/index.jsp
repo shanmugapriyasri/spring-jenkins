@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Welcome to Jenkins Demo </h1>
+<h1> Welcome to AWS Jenkins Demo </h1>
+<h1>New line added</h1>
 </body>
 </html>
